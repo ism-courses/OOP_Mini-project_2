@@ -1,4 +1,3 @@
-# ISM480_OOP_Mini-project_2
 A dog class defined in this repository.
 
 ## What you going to do is to create an Dog object:
